@@ -21,3 +21,5 @@ To sync local file with updated repositories
 15.git push origin <name of the branch in which you want to push>
 
 16.git pull #when you want to pull the changes in your local repo from original github repo
+
+17.
